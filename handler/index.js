@@ -43,7 +43,7 @@ module.exports = async (client) => {
         // Register for a single guild
         await client.guilds.cache
             .get(client.config.sunucuID)
-            .commands.set(arrayOfSlashCommands);
+            .slashCommands.set(arrayOfSlashCommands);
 
         // Register for all the guilds the bot is in
         // await client.application.commands.set(arrayOfSlashCommands);
