@@ -1,4 +1,4 @@
-# Contexmenü ve Slash Komutları
+# Context ve Slash Komutları
 - Aşağıdaki görsellerde gördüğün şekilde sistemi burda paylaşıyorum.
 - Altyapının full halini paylaşmadım içindeki herşey tamdır, sadece ekstra komutları eklemedim
 - İçerisinde ban ve mute komutları bulunmakta hergün komut ekliyorum en kısa zamanda tamamen sizlerle olucak
