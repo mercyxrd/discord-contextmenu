@@ -22,7 +22,7 @@ module.exports = {
         .setImage(`https://media.giphy.com/media/JWj4kJrSOzeU27jGI4/giphy.gif`)]})
 
         // LOG ATTIRMA
-        let channel = interaction.guild.channels.cache.get("877831190470615110")
+        let channel = interaction.guild.channels.cache.get(client.config.logs.mutelog)
         let embed = new MessageEmbed().setAuthor(client.config.embed.sunucuAdı, interaction.guild.iconURL({dynamic: true}))
         .setDescription(`${user} kullanıcısı sunucudan ${interaction.user} tarafından **Belirtilmedi** nedeni ile yasaklandı.`)
         .setFooter(client.config.embed.authorTag)
