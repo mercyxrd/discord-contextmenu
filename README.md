@@ -2,6 +2,7 @@
 - Aşağıdaki görsellerde görüldüğü şekilde sistemi burda paylaşıyorum.
 - Altyapının full halini paylaşmadım içindeki herşey tamdır, sadece ekstra komutları eklemedim
 - İçerisinde ban ve mute komutları bulunmakta hergün komut ekliyorum en kısa zamanda tamamen sizlerle olucak
+- Altyapının boş hali bana ait değildir ^^
 
 ## Önemli
 - Botunuzu sunucuya eklerken application.commands scope'u mutlaka işaretli olmalıdır.
