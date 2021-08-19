@@ -8,7 +8,6 @@
 ![XD](https://mercyxd.is-inside.me/4jb2357t.png)
 ## Görseller
 ![XD](https://mercyxd.is-inside.me/W5LZimCG.gif)
-![XD](https://media.discordapp.net/attachments/873510125766311956/876756736546074634/Ekran_Alnts.PNG)
 
 ## Yardım & Destek İçin
 - Discord: [Mêrcy.#1943](https://discord.com/users/329521933093961730)
