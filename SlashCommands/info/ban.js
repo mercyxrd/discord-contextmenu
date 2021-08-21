@@ -2,7 +2,6 @@ const { Client, ContextMenuInteraction, MessageEmbed } = require("discord.js");
 const moment = require('moment')
 moment.locale("tr");
 const ms = require("ms");
-const { Message } = require("twilio/lib/twiml/MessagingResponse");
 
 module.exports = {
     name: "Ban: Sebep Yok.",
