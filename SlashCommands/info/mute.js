@@ -14,7 +14,6 @@ module.exports = {
      * @param {String[]} args
      */
     run: async (client, interaction, args) => {
-        if (!interaction.member.roles.cache.has(client.config.staffs.muteStaff) && !interaction.member.permissions.has("ADMINISTRATOR")) return interaction.reply({ content: "Bu komutu kullanabilmek için gerekli yetkiye sahip değilsin"})
         const user = await client.users.fetch(interaction.targetId)
         interaction.followUp({ content: `<:muted:868383706254041108> <@${user.id}> kullanıcısı metin kanallarında **Taciz** nedeni ile susturulmuştur.`})
         user.roles.add(client.config.roles.muted)
